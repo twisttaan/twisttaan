@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Hometime!
 - 🌱 I’m currently learning C#
 - 💬 Ask me about my game
-- 📫 How to reach me: discord: twisttaan#0903
+- 📫 How to reach me: discord: twisttaan#0001
 - ⚡ Fun fact: [Hometime! Discord](https://discord.gg/eSVBGxk)
 
 <!--
