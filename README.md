@@ -1,7 +1,7 @@
 ### hi my name is tristan and...
 
-- 🔭 I’m currently working on Hometime!
-- 🌱 I’m currently learning C#
+- 🔭 I’m currently working on Jamble
+- 🌱 I’m currently learning JS
 - 💬 Ask me about my game
 - 📫 How to reach me: discord: twisttaan#0001
 - ⚡ Fun fact: [Hometime! Discord](https://discord.gg/eSVBGxk)
