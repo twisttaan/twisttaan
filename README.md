@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning JS
 - 💬 Ask me about my game
 - 📫 How to reach me: discord: twisttaan#0001
-- ⚡ Fun fact: [Hometime! Discord](https://discord.gg/eSVBGxk)
+- ⚡ Fun fact: [Join My Discord 😇](https://discord.gg/8ZkSgb4sPh)
 
 <!--
 **twisttaan/twisttaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
