@@ -1,19 +1,35 @@
-### hi my name is tristan and...
+### Tristan's Github
 
-- 🔭 I’m currently working on Jamble
-- 🌱 I’m currently learning JS
-- 💬 Ask me about my game
-- 📫 How to reach me: discord: twisttaan#0001
-- ⚡ Fun fact: [Join My Discord 😇](https://discord.gg/8ZkSgb4sPh)
+<div>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=twisttaan" alt="twisttaan github profile views" />
+    <a href="https://dsc.gg/tristan"><img src="https://discordapp.com/api/guilds/800977362757091329/embed.png" alt="Discord server" /></a>
+  </p>
+</div>
 
-<!--
-**twisttaan/twisttaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! My name is Tristan
 
-Here are some ideas to get you started:
+My favorite coding languages are JavaScript and C#, my current project I'm working on is Jamble which is a Discord bot that uses the [Discord.js] libary to interact with the Discord API. My last project I worked on was [Hometime!] which was a small C# Unity game.
 
-- 🔭 I’m currently working on Hometime!
-- 🌱 I’m currently learning C#
-- 💬 Ask me about my game
-- 📫 How to reach me: discord: twisttaan#0903
-- ⚡ Fun fact: [Hometime! Discord](https://discord.gg/eSVBGxk)
--->
+Want to chat me up? Join [My Discord]! You can also get me on [Twitter] but to be honest, I'm most active on Discord.
+
+
+### Github Stats
+<table>
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/?username=twisttaan&show_icons=true" />
+    </td>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=twisttaan&layout=compact&show_icons=true" />
+    </td>
+  </tr>
+</table>
+
+> Provided by [`GitHub Readme Stats`]
+
+[Twitter]: https://twitter.com/twisttaan
+[Discord.js]: https://github.com/discordjs/discord.js
+[My Discord]: https://dsc.gg/tristan
+[`GitHub Readme Stats`]: https://github.com/anuraghazra/github-readme-stats
+[Hometime!]: https://twisttaan.itch.io/hometime
