@@ -9,7 +9,7 @@
 
 Hi! My name is Tristan
 
-My favorite coding languages are JavaScript and C#, my current project I'm working on is Jamble which is a Discord bot that uses the [Discord.js] libary to interact with the Discord API. My last project I worked on was [Hometime!] which was a small C# Unity game.
+My favorite coding languages are JavaScript and C#, my current project I'm working on is [Jamble] which is a Discord bot that uses the [Discord.js] libary to interact with the Discord API. My last project I worked on was [Hometime!] which was a small C# Unity game.
 
 Want to chat me up? Join [My Discord]! You can also get me on [Twitter] but to be honest, I'm most active on Discord.
 
@@ -26,10 +26,9 @@ Want to chat me up? Join [My Discord]! You can also get me on [Twitter] but to b
   </tr>
 </table>
 
-> Provided by [`GitHub Readme Stats`]
 
 [Twitter]: https://twitter.com/twisttaan
 [Discord.js]: https://github.com/discordjs/discord.js
 [My Discord]: https://dsc.gg/tristan
-[`GitHub Readme Stats`]: https://github.com/anuraghazra/github-readme-stats
 [Hometime!]: https://twisttaan.itch.io/hometime
+[Jamble]: https://jamble.rocks/
