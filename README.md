@@ -11,7 +11,7 @@ Hi! My name is Tristan
 
 My favorite coding languages are JavaScript and C#, my current project I'm working on is [Jamble] which is a Discord bot that uses the [Discord.js] libary to interact with the Discord API. My last project I worked on was [Hometime!] which was a small C# Unity game.
 
-Want to chat me up? Join [My Discord]! You can also get me on [Twitter] but to be honest, I'm most active on Discord.
+Want to chat with me? Join [My Discord]! You can also get me on [Twitter] but to be honest, I'm most active on Discord.
 
 
 ### Github Stats
