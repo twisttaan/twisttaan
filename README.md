@@ -20,9 +20,6 @@ Want to chat with me? Join [My Discord]! You can also get me on [Twitter] but to
     <td align="center" style="padding=0;width=50%;">
       <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/?username=twisttaan&show_icons=true" />
     </td>
-    <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=twisttaan&layout=compact&show_icons=true" />
-    </td>
   </tr>
 </table>
 
