@@ -3,7 +3,7 @@
 <div>
   <p>
     <img src="https://komarev.com/ghpvc/?username=twisttaan" alt="twisttaan github profile views" />
-    <a href="https://dsc.gg/tristan"><img src="https://discordapp.com/api/guilds/800977362757091329/embed.png" alt="Discord server" /></a>
+    <a href="https://dsc.gg/tristan"><img src="https://discordapp.com/api/guilds/819106797028769844/embed.png" alt="Discord server" /></a>
   </p>
 </div>
 
