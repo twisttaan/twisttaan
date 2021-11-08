@@ -11,17 +11,7 @@ Hi! My name is Tristan,
 
 My favorite coding languages are TypeScript and C#, my current project I'm working on is [Evie] which is a Discord bot that uses the [Discord.js] libary to interact with the Discord API. 
  
-Want to chat with me? Join [My Discord]! You can also get me on [Twitter] but to be honest, I'm most active on Discord.
-
-
-### Github Stats
-<table>
-  <tr>
-    <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/?username=twisttaan&show_icons=true" />
-    </td>
-  </tr>
-</table>
+Want to chat with me? Join [My Discord]!
 
 
 [Twitter]: https://twitter.com/twisttaan
