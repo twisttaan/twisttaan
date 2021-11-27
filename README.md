@@ -1,5 +1,5 @@
-### Hey I'm Tristan!
-[![Statics](https://github-readme-stats.vercel.app/api?username=twisttaan&show_icons=true&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)]
+## tristan 🐶
+[![Stats](https://github-readme-stats.vercel.app/api?username=twisttaan&show_icons=true&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)]
 <div>
   <p>
     <img src="https://komarev.com/ghpvc/?username=twisttaan" alt="twisttaan github profile views" />
@@ -9,7 +9,7 @@
 
 #### Hi! My name is Tristan,
 
-My favorite coding languages are TypeScript and C#, my current project I'm working on is [Evie] which is a Discord bot that uses the [Discord.js] libary to interact with the Discord API. 
+> My favorite coding languages are TypeScript and C#, my current project I'm working on is [Evie] which is a Discord bot that uses the [Discord.js] libary to interact with the Discord API. 
  
 Want to chat with me? Join [My Discord]!
 
