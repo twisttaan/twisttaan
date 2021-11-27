@@ -7,7 +7,7 @@
   </p>
 </div>
 
-Hi! My name is Tristan,
+#### Hi! My name is Tristan,
 
 My favorite coding languages are TypeScript and C#, my current project I'm working on is [Evie] which is a Discord bot that uses the [Discord.js] libary to interact with the Discord API. 
  
