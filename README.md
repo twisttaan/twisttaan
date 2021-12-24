@@ -1,5 +1,5 @@
 ## tristan 🐶
-[![Stats](https://github-readme-stats.vercel.app/api?username=twisttaan&show_icons=true&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)]
+[![Stats](https://github-readme-stats.vercel.app/api?username=twisttaan&show_icons=true&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 <div>
   <p>
     <img src="https://komarev.com/ghpvc/?username=twisttaan" alt="twisttaan github profile views" />
