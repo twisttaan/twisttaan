@@ -9,7 +9,7 @@ I'm fully self taught, I started out early 2020 with [`C#`] trying to create a g
 ### Fun Facts 😲
 
 - [`Next.js`] is imo the best way to make any web app.
-- [`Mixin`]   The best way to make anything that modifies Minecraft.
+- [`Mixin`]   the best way to make anything that modifies minecraft.
 - I hate python, i require curly brackets not indents.
 
 ## 📫 How to reach me
