@@ -6,7 +6,6 @@
      </a>
 </p>
 
-
 I'm a Full Stack Developer from Sydney!🌭 I'm a **very** fast learner when it comes to tech & programming. My main languages I focus on are [`TypeScript`] and [`Kotlin`].
 
 ## 📚 Experience
@@ -16,7 +15,7 @@ I'm fully self taught, I started out early 2020 with [`C#`] trying to create a g
 ### Fun Facts 😲
 
 - [`Next.js`] is imo the best way to make any web app.
-- [`Mixin`]   the best way to make anything that modifies minecraft.
+- [`Mixin`] the best way to make anything that modifies minecraft.
 - I hate python, i require curly brackets not indents.
 
 ## 📫 How to reach me
@@ -24,7 +23,7 @@ I'm fully self taught, I started out early 2020 with [`C#`] trying to create a g
 You can reach out to me on a multitude of platforms!
 
 - Email : contact@tristancamejo.com
-- Twitter : [`twisttaan`][Twitter]
+- Twitter : [`twisttaan`][twitter]
 - Discord: [`tristan#0005`](https://discord.com/users/97470053615673344) (you should join my [server](https://evie.pw/discord))
 
 ## 🚧 Projects
@@ -44,20 +43,23 @@ And many, many more things you can see by exploring [`my repositories`]!
   </tr>
 </table>
 
+![](https://github.com/twisttaan/twisttaan/raw/output/github-contribution-grid-snake.svg)
+
 <!----------------- Quick Links --------------->
-[`TypeScript`]:          https://www.typescriptlang.org/
-[`Kotlin`]:              https://kotlinlang.org/
-[`NatsirtMC`]:           https://github.com/twisttaan/NatsirtMC
-[`Evie Client`]:         https://evie.pw
-[`Nick`]:                https://github.com/Nciklol
-[`Mixin`]:               https://github.com/SpongePowered/Mixin
-[`C#`]:                  https://docs.microsoft.com/en-us/dotnet/csharp/
-[`Next.js`]:             https://nextjs.org/
-[`React`]:               https://reactjs.org/
-[`Discord`]:             https://discord.com/
-[`Evie Bot`]:            https://eviebot.rocks/
-[`my repositories`]:     https://github.com/twisttaan?tab=repositories
-[`GitHub Readme Stats`]: https://github.com/anuraghazra/github-readme-stats
-[Twitter]:               https://twitter.com/twisttaan
-[`Kurpp`]:               https://github.com/Kurpp
-[`Discord.JS`]:          https://github.com/discordjs
+
+[`typescript`]: https://www.typescriptlang.org/
+[`kotlin`]: https://kotlinlang.org/
+[`natsirtmc`]: https://github.com/twisttaan/NatsirtMC
+[`evie client`]: https://evie.pw
+[`nick`]: https://github.com/Nciklol
+[`mixin`]: https://github.com/SpongePowered/Mixin
+[`c#`]: https://docs.microsoft.com/en-us/dotnet/csharp/
+[`next.js`]: https://nextjs.org/
+[`react`]: https://reactjs.org/
+[`discord`]: https://discord.com/
+[`evie bot`]: https://eviebot.rocks/
+[`my repositories`]: https://github.com/twisttaan?tab=repositories
+[`github readme stats`]: https://github.com/anuraghazra/github-readme-stats
+[twitter]: https://twitter.com/twisttaan
+[`kurpp`]: https://github.com/Kurpp
+[`discord.js`]: https://github.com/discordjs
