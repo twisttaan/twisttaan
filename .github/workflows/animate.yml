@@ -3,10 +3,12 @@ name: Render Animation
 on:
   schedule:
     - cron: "0 */6 * * *" 
-    workflow_dispatch:
-    push:
+    
+  workflow_dispatch:
+    
+  push:
     branches:
-    - main
+        - main
 
 jobs:
   generate:
