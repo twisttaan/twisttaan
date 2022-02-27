@@ -1,5 +1,9 @@
 # Hey, I'm Tristan! 👋
 
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/twisttaan?label=Sponsor&logo=GitHub%20Sponsors&style=flat-square)](https://github.com/sponsors/twisttaan)
+[![Discord](https://img.shields.io/discord/819106797028769844?label=Discord&logo=DISCORD&style=flat-square)](https://canary.discord.com/invite/sMH8pM2w)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCRDSJjW_R1oqBN7Yc0RbXyg?label=YT%20Subscribers&style=flat-square)](https://www.youtube.com/twisttaan?sub_confirmation=1)
+
 <p align="center"><br>
   <a href="https://evie.pw/discord">
     <img src="https://lanyard.cnrad.dev/api/97470053615673344"/>
