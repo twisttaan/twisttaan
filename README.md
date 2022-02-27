@@ -1,5 +1,12 @@
 # Hey, I'm Tristan! 👋
 
+<p align="center"><br>
+  <a href="https://evie.pw/discord">
+    <img src="https://lanyard.cnrad.dev/api/97470053615673344"/>
+     </a>
+</p>
+
+
 I'm a Full Stack Developer from Sydney!🌭 I'm a **very** fast learner when it comes to tech & programming. My main languages I focus on are [`TypeScript`] and [`Kotlin`].
 
 ## 📚 Experience
