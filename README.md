@@ -3,7 +3,7 @@
 [![GitHub Sponsors](https://img.shields.io/github/sponsors/twisttaan?label=Sponsor&logo=GitHub%20Sponsors&style=flat-square)](https://github.com/sponsors/twisttaan)
 [![Discord](https://img.shields.io/discord/819106797028769844?label=Discord&logo=DISCORD&style=flat-square)](https://canary.discord.com/invite/sMH8pM2w)
 
-I'm a developer from Sydney! I'm a **very** fast learner when it comes to technology & programming. My main languages I focus on are [`TypeScript`] and [`Kotlin`].
+I'm a developer from Sydney! I'm a **very** fast learner when it comes to technology & programming.
 
 ## 🚧 Projects
 
