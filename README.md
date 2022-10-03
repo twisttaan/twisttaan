@@ -1,16 +1,8 @@
 i make stuff
 
-currently foucsing on meetup a unique social platform made with
+currently foucsing on meetup a unique social platform
 
-* swiftui
-* react
-* nestjs
-* typescript
-* vercel
-* gcp
-* postgres
-
-... and love 😘
+https://meetup.lol/blog/tech-stack
 
 ---
 https://tristancamejo.com
