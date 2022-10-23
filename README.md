@@ -1,8 +1,9 @@
-i make stuff
+# Hey 👋
 
-currently foucsing on meetup a unique social platform
+I'm Tristan Camejo, A developer, music producer, video editor and designer from Sydney, Australia.
 
-https://meetup.lol/blog/tech-stack
+## What am I working on now
 
----
-https://tristancamejo.com
+- [Disploy](https://github.com/Disploy/disploy), open source Discord framework.
+- [MeetUp](https://meetup.lol/), closed source unique social media app.
+- 
