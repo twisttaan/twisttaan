@@ -4,4 +4,4 @@ I'm Tristan, an aspiring software engineer from Sydney. I love programming with 
 
 ### I'm currently working on:
 
-* [Disploy](https://github.com/Disploy/deploy), a Discord library to create HTTP interaction bots with. It supports Node.js, Deno and Cloudflare Workers.
+* [Disploy](https://github.com/Disploy/disploy), a Discord library to create HTTP interaction bots with. It supports Node.js, Deno and Cloudflare Workers.
