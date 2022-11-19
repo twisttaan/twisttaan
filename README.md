@@ -1,12 +1,7 @@
 # Hey 👋
 
-I'm Tristan Camejo, A developer, music producer, video editor and designer from Sydney, Australia.
+I'm Tristan, an aspiring software engineer from Sydney. I love programming with [Go](https://github.com/TeamEvie/eviecoin), [TypeScript](https://github.com/Disploy/deploy) and [Kotlin](https://github.com/EvieClient/Client).
 
-## What am I working on now
+### I'm currently working on:
 
-- [Disploy](https://github.com/Disploy/disploy), open source Discord framework.
-- [MeetUp](https://meetup.lol/), closed source unique social media app.
-
-<a href="https://wakatime.com/@tristancamejo" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=tristancamejo&layout=compact&theme=react&bg_color=23272A&hide_border=true" />
-</a>
+* [Disploy](https://github.com/Disploy/deploy), a Discord library to create HTTP interaction bots with. It supports Node.js, Deno and Cloudflare Workers.
