@@ -1,7 +1,6 @@
-# Hey 👋
-
-I'm Tristan, an aspiring software engineer from Sydney. I love programming with [Go](https://github.com/TeamEvie/eviecoin), [TypeScript](https://github.com/Disploy/disploy) and [Kotlin](https://github.com/EvieClient/Client).
-
-### I'm currently working on:
-
-* [Disploy](https://github.com/Disploy/disploy), a Discord library to create HTTP interaction bots with. It supports Node.js, Deno and Cloudflare Workers.
+**twisttaan/twisttaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are some ideas to get you started:
+- 🔭 I’m currently working on an AI startup!
+- 🌱 I’m currently learning crypto and web3
+- 📫 How to reach me: contact@tristancamejo.com
+- ⚡ Fun fact: I have ₿0.00046452 `37RVKQGXCrGuJ1GTvrMYA81mQZHxtygEJM`
