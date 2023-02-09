@@ -1,5 +1,18 @@
-**twisttaan/twisttaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently ~~working on an AI startup!~~ https://intelisolve.app
-- 🌱 I’m currently learning rust and c++ (look rust in a [side project](https://github.com/twisttaan/astray))
-- 📫 How to reach me: contact@tristancamejo.com
+### Hey, I'm Tristan Camejo 👋
+
+In my free time I make [music](https://album.link/au/i/1540445932) and create **software**.
+
+I use GitHub to store, run ci, share and collaborate code.
+
+### projects/startups
+
+Projects in this list are closed source and must be finished functionality.
+
+* [intelisolve](https://intelisolve.app)
+
+### oss side project
+
+My current side project I'm working on is astray. It's a music player I'm working on to solve my problem of synchronising my music library between my phone and computer.
+I thought of this while at the gym listening to unreleased juice wrld via youtube and couldn't lock my phone, switch apps briefly to strong to log my sets or find less popular tracks.
+
+* [astray](https://github.com/twisttaan/astray) - open-source music player that astrays from the rest.
