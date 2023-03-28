@@ -9,6 +9,7 @@ I use GitHub to store, run ci, share and collaborate code.
 Projects in this list are closed source and must be finished functionally.
 
 * [intelisolve](https://intelisolve.app)
+* [tsmp](https://tristansmp.com)
 
 ### oss side project
 
