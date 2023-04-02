@@ -6,8 +6,6 @@ I use GitHub to store, run ci, share and collaborate code.
 
 ### projects/startups
 
-Projects in this list are closed source and must be finished functionally.
-
 * [intelisolve](https://intelisolve.app)
 
 ### oss side project
